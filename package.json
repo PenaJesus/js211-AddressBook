@@ -1,0 +1,22 @@
+{
+  "name": "js211-addressbook",
+  "version": "1.0.0",
+  "description": "<!-- Use the API: https://randomuser.me/api/ to fetch a user now\r Fetch a new user multiple times and store them in an array",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PenaJesus/js211-AddressBook.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PenaJesus/js211-AddressBook/issues"
+  },
+  "homepage": "https://github.com/PenaJesus/js211-AddressBook#readme",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}

@@ -1,0 +1,12 @@
+#container {
+  border: 1px solid black;
+  ;
+}
+
+ span{
+  display: none;
+}
+
+.visible {
+  display: block;
+}
